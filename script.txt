@@ -2,3 +2,5 @@
 - hero does not enter with his army 
 - there is fighting scenes
 - new line
+- script2
+- hero entry after interval
