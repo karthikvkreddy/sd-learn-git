@@ -1,6 +1,6 @@
 - script1 
-- hero does not enter with his army
-- there is not any fighting scenes
+- hero does not enter with his army 
+- there is a fighting scenes with BGM
 - new line
 - script2
 - hero entry after interval
